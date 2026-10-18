@@ -1,0 +1,36 @@
+feedbackId,storeId,text,sourceType,language,createdAt,expectedCategory,isSynthetic
+fb-syn-001,STORE-HYD-01,Sunflower cooking oil is completely out of stock today,kiosk,en,2026-10-15T09:30:00Z,STOCK_SHORTAGE,true
+fb-syn-002,STORE-VIZAG-02,Milk packets stock ledu shelves khali ga unnai,mobile_app,te-en,2026-10-15T09:45:00Z,STOCK_SHORTAGE,true
+fb-syn-003,STORE-VIJ-03,Empty shelves in the rice section please restock soon,qr_survey,en,2026-10-15T10:15:00Z,STOCK_SHORTAGE,true
+fb-syn-004,STORE-TIR-04,Brown bread not available and items missing from shelf,google_review,en,2026-10-15T11:00:00Z,STOCK_SHORTAGE,true
+fb-syn-005,STORE-HYD-02,Dorakatledu fresh eggs eppudu chusina sold out,mobile_app,te-en,2026-10-15T11:30:00Z,STOCK_SHORTAGE,true
+fb-syn-006,STORE-HYD-01,Very slow billing at counter 2 waited 25 minutes,kiosk,en,2026-10-15T12:00:00Z,BILLING_DELAY,true
+fb-syn-007,STORE-VIZAG-01,Billing chala slow ga undi counter daggara rush ekkuva,mobile_app,te-en,2026-10-15T12:15:00Z,BILLING_DELAY,true
+fb-syn-008,STORE-VIJ-02,Long queue at payment counter and slow checkout process,google_review,en,2026-10-15T12:45:00Z,BILLING_DELAY,true
+fb-syn-009,STORE-TIR-03,Took forever to bill because card swipe machine had payment delay,kiosk,en,2026-10-15T13:00:00Z,BILLING_DELAY,true
+fb-syn-010,STORE-HYD-03,Line chala peddaga undi billing late avtundi chala sepu aagalsi vachindi,qr_survey,te-en,2026-10-15T13:30:00Z,BILLING_DELAY,true
+fb-syn-011,STORE-HYD-02,The cashier was extremely rude and unhelpful,kiosk,en,2026-10-15T14:00:00Z,STAFF_BEHAVIOUR,true
+fb-syn-012,STORE-VIZAG-02,Staff rude ga matladaru counter daggara mariyada ledu,mobile_app,te-en,2026-10-15T14:20:00Z,STAFF_BEHAVIOUR,true
+fb-syn-013,STORE-VIJ-01,Terrible customer service worker was shouting at customers,google_review,en,2026-10-15T14:45:00Z,STAFF_BEHAVIOUR,true
+fb-syn-014,STORE-TIR-02,Store assistant unhelpful and arrogant staff ignored my question,qr_survey,en,2026-10-15T15:10:00Z,STAFF_BEHAVIOUR,true
+fb-syn-015,STORE-HYD-01,Staff sariga matladatledu helpers sariga respond avvaledu,mobile_app,te-en,2026-10-15T15:30:00Z,STAFF_BEHAVIOUR,true
+fb-syn-016,STORE-VIZAG-01,Milk was expired and bread was stale,kiosk,en,2026-10-15T16:00:00Z,PRODUCT_QUALITY,true
+fb-syn-017,STORE-HYD-03,Curd stale ga undi and veggies rotten ga unnai,mobile_app,te-en,2026-10-15T16:15:00Z,PRODUCT_QUALITY,true
+fb-syn-018,STORE-VIJ-03,Damaged package with broken seal and foul smell,google_review,en,2026-10-15T16:35:00Z,PRODUCT_QUALITY,true
+fb-syn-019,STORE-TIR-01,Milk expire aipoyindi product paadaipoyindi,qr_survey,te-en,2026-10-15T17:00:00Z,PRODUCT_QUALITY,true
+fb-syn-020,STORE-HYD-02,Found fungus on paneer packet very poor quality,mobile_app,en,2026-10-15T17:20:00Z,PRODUCT_QUALITY,true
+fb-syn-021,STORE-HYD-01,Barcode scanner is broken and pos not working,kiosk,en,2026-10-15T17:45:00Z,EQUIPMENT_FAILURE,true
+fb-syn-022,STORE-VIZAG-02,Store lo ac pani cheyatledu and refrigerator cooling ledu,mobile_app,te-en,2026-10-15T18:00:00Z,EQUIPMENT_FAILURE,true
+fb-syn-023,STORE-VIJ-02,Freezer broken in meat section and display screen down,google_review,en,2026-10-15T18:20:00Z,EQUIPMENT_FAILURE,true
+fb-syn-024,STORE-TIR-04,Card machine pani cheyatam ledu scanner work avvatledu,kiosk,te-en,2026-10-15T18:40:00Z,EQUIPMENT_FAILURE,true
+fb-syn-025,STORE-HYD-03,Trolley broken and escalator stopped working on floor 1,qr_survey,en,2026-10-15T19:00:00Z,EQUIPMENT_FAILURE,true
+fb-syn-026,STORE-VIZAG-01,No parking space available car park was full,kiosk,en,2026-10-15T19:20:00Z,OTHER,true
+fb-syn-027,STORE-HYD-01,Store timings should be extended till 11 PM on weekends,google_review,en,2026-10-15T19:40:00Z,OTHER,true
+fb-syn-028,STORE-VIJ-01,Offers chala bagunnai overall shopping bagundi,mobile_app,te-en,2026-10-15T20:00:00Z,OTHER,true
+fb-syn-029,STORE-TIR-02,Great discounts on groceries and nice store ambience,qr_survey,en,2026-10-15T20:20:00Z,OTHER,true
+fb-syn-030,STORE-HYD-02,Parking space ledu car park cheyadaniki chala kashtam ga undi,mobile_app,te-en,2026-10-15T20:40:00Z,OTHER,true
+fb-syn-031,STORE-VIZAG-02,ok,kiosk,en,2026-10-15T21:00:00Z,NEEDS_REVIEW,true
+fb-syn-032,STORE-HYD-03,something happened yesterday during visit,mobile_app,en,2026-10-15T21:15:00Z,NEEDS_REVIEW,true
+fb-syn-033,STORE-VIJ-03,asdfghjkl random test string 12345,qr_survey,en,2026-10-15T21:30:00Z,NEEDS_REVIEW,true
+fb-syn-034,STORE-TIR-01,The cashier was very rude and the milk was expired,google_review,en,2026-10-15T21:45:00Z,NEEDS_REVIEW,true
+fb-syn-035,STORE-HYD-01,Sunflower oil is out of stock and billing chala slow ga undi,mobile_app,te-en,2026-10-15T22:00:00Z,NEEDS_REVIEW,true

@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-page: #F8FAFC;
+    --bg-card: #FFFFFF;
+    --bg-hover: #F1F5F9;
+    --color-primary: #3478F6;
+    --color-primary-hover: #2563EB;
+    --text-main: #172033;
+    --text-muted: #64748B;
+    --border-main: #E2E8F0;
+    --border-light: #F1F5F9;
+  }
+
+  body {
+    background-color: #F8FAFC;
+    color: #172033;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    color-scheme: light;
+  }
+}
+
+/* Custom modern light scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F8FAFC;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94A3B8;
+}
+
+/* Light theme subtle glow effects */
+.glow-accent-subtle {
+  box-shadow: 0 10px 30px -10px rgba(52, 120, 246, 0.08);
+}
+
+.glow-accent-border {
+  border-color: rgba(52, 120, 246, 0.3);
+  box-shadow: 0 0 15px -3px rgba(52, 120, 246, 0.1);
+}
